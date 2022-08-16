@@ -1,7 +1,7 @@
 import torch
 from torch import nn
 from modules.transformer_encoder import TransformerEncoder
-from modules.patch_embedding import Patch_Embedding
+from modules.patch_embedding import PatchEmbedding
 
 class ViT(nn.Module):
     def __init__(self,
