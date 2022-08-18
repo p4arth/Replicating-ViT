@@ -30,7 +30,7 @@ model = ViT()
 
 ## Module details 
 
-The [modules](https://github.com/p4arth/Replicating-ViT/tree/main/modules) folder contains 6 submodules that altogether form the vision transformer model.
+The [modules](https://github.com/p4arth/Replicating-ViT/tree/main/modules) folder contains 5 submodules that altogether form the vision transformer model.
 
 - **[Patch Embeddings](https://github.com/p4arth/Replicating-ViT/blob/main/modules/patch_embedding.py)**
 
